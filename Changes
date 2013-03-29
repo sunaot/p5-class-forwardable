@@ -1,0 +1,6 @@
+Revision history for Perl extension Class::Forwardable.
+
+0.01  Mon Mar 25 22:36:51 2013
+	- original version; created by h2xs 1.23 with options
+		-AX --skip-exporter -n Class::Forwardable
+
